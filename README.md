@@ -20,8 +20,8 @@ USA.
 
 README
 
-The EGRSA package is This software is the Evolutionary Golden Ratio Simulated Annealing (EGRSA).
-It is based on the SMMP package. The EGRSA software is based on the Golden Ratio simulated
+The Evolutionary Golden Ratio Simulated Annealing (EGRSA) algorithm is based on the SMMP package. 
+The EGRSA software is based on the Golden Ratio simulated
 annealing algorithm and Genetic Algorithm described in the next papers:
 
 Juan Frausto-Solis,Juan Paulo Sánchez-Hernández, Mishael Sánchez-Pérez, Ernesto Liñan García,
